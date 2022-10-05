@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+img {
+	display: none;
+}
+input {
+	position: absolute;
+	width: 120px;
+	left: 15px;
+	bottom: 50px;
+	background-color: #32CD32;
+	font-size: 15px;
+	font-family: serif;
+	font-weight: bold;
+}
